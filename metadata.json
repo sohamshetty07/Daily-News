@@ -1,0 +1,8 @@
+{
+  "name": "Zee Daily Curation Dashboard",
+  "description": "Daily news curation dashboard that scrapes sources and uses Gemini AI to deduplicate and categorize news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
